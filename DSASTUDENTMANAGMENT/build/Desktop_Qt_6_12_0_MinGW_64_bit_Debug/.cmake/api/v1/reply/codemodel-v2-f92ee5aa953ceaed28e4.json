@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "DSASTUDENTMANAGMENT::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DSASTUDENTMANAGMENT-Debug-95c9995e0efe4c6d8ea3.json",
+					"jsonFile" : "target-DSASTUDENTMANAGMENT-Debug-484147f43308b21194db.json",
 					"name" : "DSASTUDENTMANAGMENT",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/DSA/DSASTUDENTMANAGMENT/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
-		"source" : "D:/DSA/DSASTUDENTMANAGMENT"
+		"build" : "D:/DSA/SAMS/DSASTUDENTMANAGMENT/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/DSA/SAMS/DSASTUDENTMANAGMENT"
 	},
 	"version" : 
 	{

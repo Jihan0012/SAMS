@@ -382,7 +382,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "D:/DSA/DSASTUDENTMANAGMENT/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/DSASTUDENTMANAGMENT_autogen/include"
+					"path" : "D:/DSA/SAMS/DSASTUDENTMANAGMENT/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/DSASTUDENTMANAGMENT_autogen/include"
 				},
 				{
 					"backtrace" : 13,
@@ -422,11 +422,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "DSASTUDENTMANAGMENT_autogen::@6890427a1f51a3e7e1df"
+			"id" : "DSASTUDENTMANAGMENT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "DSASTUDENTMANAGMENT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "DSASTUDENTMANAGMENT_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "DSASTUDENTMANAGMENT::@6890427a1f51a3e7e1df",
